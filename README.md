@@ -1,8 +1,8 @@
 
-<span>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=facsert&" alt="facsert" /><p>
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=facsert&show_icons=true&locale=en" alt="facsert" /><p>
-</span>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=facsert&show_icons=true&locale=en" alt="facsert" /><p>
+
+![Metrics](https://metrics.lecoq.io/facsert?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=facsert" alt="facsert" /></a> </p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
