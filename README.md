@@ -1,11 +1,9 @@
 
 <span>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=facsert&show_icons=true&locale=en" alt="facsert" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=facsert&" alt="facsert" />
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=facsert&" alt="facsert" /><p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=facsert&show_icons=true&locale=en" alt="facsert" /><p>
 </span>
 
-<br>
-<br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=facsert" alt="facsert" /></a> </p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
