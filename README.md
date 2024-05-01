@@ -57,15 +57,18 @@
     </p>
   </div>
   <div class="body">
+    <p>
       <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=facsert&theme=radical" alt="facsert" />
+    </p>
     <p>
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=facsert&rank_icon=github&theme=radical" alt="facsert" />
     </p>
     <p>
-      <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=facsert&layout=compact&theme=radical" alt="facsert" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs&layout=compact&theme=radical" alt="facsert" />
     </p>
   </div>
-</div
+</div>
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=facsert\&layout=compact)
 
 
 
