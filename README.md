@@ -66,8 +66,10 @@
     <p>
       <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=facsert&layout=compact&theme=radical" alt="facsert" />
     </p>
+    <p>
+      <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=facsert&theme=react-dark" alt="facsert" />
+    </p>
   </div>
 </div>
-
 
 
